@@ -1,1 +1,1 @@
-# LearnGit
+# Git Playground
